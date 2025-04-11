@@ -2,15 +2,18 @@
 
 A sleek and customizable password generator built using **React** and **Tailwind CSS**. Generate secure passwords of any length, with options to include numbers and special characters.
 
+## 🌐 Live Demo
+
+👉 [Click here to try it out!](https://eloquent-nougat-fc64fd.netlify.app/)
+
 ## 🌟 Features
 
-- Generate random passwords instantly
-- Customize password length (from 6 to 100)
-- Include/exclude:
-  - Numbers (0–9)
-  - Special characters (!@#$%^&*()_+)
-- Copy the generated password to your clipboard with one click
-- Responsive and modern UI using Tailwind CSS
+- 🔁 Instantly generate random passwords
+- 🛠️ Customize password length (6–100)
+- 🔢 Toggle inclusion of numbers
+- 🔣 Toggle inclusion of special characters
+- 📋 One-click copy to clipboard
+- 🎨 Modern, responsive UI using Tailwind CSS
 
 ## 🚀 Demo
 
